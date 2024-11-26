@@ -1,0 +1,11 @@
+customer_id,age,sex,location,language,review,rating,cuisine_type,restaurant_name,restaurant_chain,dish_names,city_cuisine_tags,dietary_preference
+1,25,Male,London,English,"The service was excellent, and the food was delicious.",5,International,The Savoy Grill,Gordon Ramsay Restaurants,"Beef Wellington, Chocolate Soufflé","London Fine Dining, Michelin-starred",None
+2,30,Female,Madrid,Spanish,"La comida estaba increíble, pero el servicio fue muy lento.",3,Spanish,Mercado de San Miguel,Independent,"Tapas, Paella, Jamón Ibérico","Madrid Traditional Cuisine, Tapas Bar",Pescatarian
+3,22,Non-binary,Berlin,German,"Das Essen war in Ordnung, aber der Service war nicht gut.",2,German Fusion,Markthalle Neun,Street Food Thursday,"Currywurst, Schnitzel","Berlin Street Food, Urban Dining",Vegetarian
+4,45,Male,Paris,French,"Le repas était incroyable, et le personnel était très sympathique.",5,French Haute Cuisine,Le Jules Verne,Alain Ducasse,"Foie Gras, Crème Brûlée","Paris Gourmet, Eiffel Tower Dining",None
+5,35,Female,Tokyo,Japanese,料理は美味しかったが、サービスが少し遅かったです。,3,Japanese Kaiseki,Narisawa,Independent,"Satoyama Cuisine, Seasonal Sushi","Tokyo Fine Dining, Innovative Cuisine",Pescatarian
+6,29,Male,São Paulo,Portuguese,"O atendimento foi péssimo, e a comida estava fria.",1,Brazilian,Mocotó,Independent,"Feijoada, Pão de Queijo","São Paulo Street Food, Brazilian Traditional",None
+7,38,Female,New York,English,"Amazing experience, great food and excellent service.",5,American Contemporary,Eleven Madison Park,Make It Nice,"Honey Lavender Duck, Milk Chocolate Cremeux","New York Fine Dining, Michelin-starred",Vegan
+8,26,Male,Beijing,Chinese,食物很好吃，但是服务员态度不太好。,2,Beijing Cuisine,Da Dong Roast Duck,Da Dong Group,"Peking Duck, Dim Sum","Beijing Traditional Cuisine, Gourmet",None
+9,33,Female,Moscow,Russian,"Еда была вкусной, но обслуживание оставляло желать лучшего.",3,Russian Contemporary,White Rabbit,Independent,"Beef Stroganoff, Olivier Salad","Moscow Fine Dining, Modern Russian",Vegetarian
+10,40,Male,Dubai,Arabic,الطعام كان ممتازا والخدمة لا يعلى عليها.,5,Middle Eastern Fusion,Pierchic,Al Mahara,"Seafood Mandi, Arabic Mezze","Dubai Luxury Dining, Waterfront Restaurant",None
